@@ -1,2 +1,2 @@
 # School-Python
-This is the week 1 project.
+This branch is for the projects week1 - week 3.
