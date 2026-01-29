@@ -1,2 +1,2 @@
 # School-Python
-This repository is for showcasing my python projects from school
+This is the week 1 project.
